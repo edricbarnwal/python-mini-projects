@@ -3,7 +3,7 @@
 A fun Python console game where you can play Rock, Paper, Scissors against the computer.
 This project uses ASCII art to display moves and provides an interactive experience right from your terminal.
 
-✨ Features
+##✨ Features
 
 - 🎮 Interactive console gameplay
 
@@ -17,7 +17,7 @@ This project uses ASCII art to display moves and provides an interactive experie
 
 - ✅ Clean and beginner-friendly Python code
 
-🚀 How to Play
+##🚀 How to Play
 
 1. Run the Python script.
 
