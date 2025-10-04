@@ -31,8 +31,8 @@ This project uses ASCII art to display moves and provides an interactive experie
 
   - E → Exit the game
 
-The computer will randomly pick its move.
+3. The computer will randomly pick its move.
 
-The game result will be displayed.
+4. The game result will be displayed.
 
-Keep playing until you exit.
+5. Keep playing until you exit.
