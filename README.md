@@ -6,4 +6,5 @@ This repository contains a variety of **small Python projects**, each designed t
 ## 🗂️ Projects
 Each folder inside this repository represents a mini-project. Some examples include:  
 - `rock_paper_scissors` – A simple Python game where the user plays Rock, Paper, Scissors against the computer.
+- `monday_quote_sender` - 
   
