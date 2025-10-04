@@ -5,17 +5,17 @@ This project uses ASCII art to display moves and provides an interactive experie
 
 ✨ Features
 
-🎮 Interactive console gameplay
+- 🎮 Interactive console gameplay
 
-🎨 ASCII art for Rock, Paper, and Scissors
+- 🎨 ASCII art for Rock, Paper, and Scissors
 
-🚪 Exit the game anytime by pressing E
+- 🚪 Exit the game anytime by pressing E
 
-❌ Handles invalid inputs gracefully
+- ❌ Handles invalid inputs gracefully
 
-🤖 Randomized computer moves
+- 🤖 Randomized computer moves
 
-✅ Clean and beginner-friendly Python code
+- ✅ Clean and beginner-friendly Python code
 
 🚀 How to Play
 
