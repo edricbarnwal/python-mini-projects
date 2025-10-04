@@ -23,4 +23,4 @@ A Python script that sends a **motivational quote** every Monday at **6:00 AM** 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/monday-motivation.git
+git clone https://github.com/edricbarnwal/monday-motivation.git
