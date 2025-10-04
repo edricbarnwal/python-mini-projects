@@ -19,17 +19,17 @@ This project uses ASCII art to display moves and provides an interactive experie
 
 🚀 How to Play
 
-Run the Python script.
+1. Run the Python script.
 
-Enter your choice:
+2. Enter your choice:
 
-R → Rock
+  - R → Rock
 
-P → Paper
+  - P → Paper
 
-S → Scissors
+  - S → Scissors
 
-E → Exit the game
+  - E → Exit the game
 
 The computer will randomly pick its move.
 
