@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors 🎮✊✋✌️
+# Rock-Paper-Scissors Game 🎮✊✋✌️
 
 A fun **Python console game** where you can play **Rock, Paper, Scissors** against the computer.  
 This project uses ASCII art to display moves and offers a simple, interactive terminal experience.
